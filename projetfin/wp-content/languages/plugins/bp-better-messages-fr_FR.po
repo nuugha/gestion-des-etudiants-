@@ -1,0 +1,1272 @@
+# Translation of Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-27 23:27:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release)\n"
+
+#: views/layout-settings.php:4650
+msgctxt "Settings page"
+msgid "Last full synchronization"
+msgstr "Dernière synchronisation complète"
+
+#: views/layout-settings.php:1146
+msgctxt "Settings page"
+msgid "Allow users to pin messages"
+msgstr "Autoriser les utilisateurs/utilisatrices à épingler des messages"
+
+#: views/layout-settings.php:1147
+msgctxt "Settings page"
+msgid "Allow conversation moderators to pin messages to the top of messages list"
+msgstr "Autoriser les modérateurs/modératrices de discussions à épingler des messages en haut de la liste des messages"
+
+#: views/layout-settings.php:4288
+msgid "this page"
+msgstr "cette page"
+
+#: views/layout-settings.php:4282
+msgctxt "Settings page"
+msgid "Point Type"
+msgstr "Type de crédit"
+
+#: views/layout-settings.php:4188 views/layout-settings.php:4398
+msgctxt "Settings page"
+msgid "Price for private calls"
+msgstr "Prix pour les appels privés"
+
+#: inc/customize.php:347
+msgctxt "WP Customizer"
+msgid "12-hour time format"
+msgstr "Format 12 heures"
+
+#: inc/customize.php:346
+msgctxt "WP Customizer"
+msgid "24-hour time format"
+msgstr "Format 24 heures"
+
+#: inc/customize.php:342
+msgctxt "WP Customizer"
+msgid "Time format"
+msgstr "Format de l’heure"
+
+#: inc/guests.php:271
+msgid "Deleted Guest"
+msgstr "Invité supprimé"
+
+#: addons/hivepress.php:384 addons/hivepress.php:504 addons/hivepress.php:522
+msgctxt "HivePress Integration (Private Message)"
+msgid "Send Message"
+msgstr "Envoyer un message"
+
+#: addons/ai/ai.php:279 inc/chats.php:718 views/layout-settings.php:17
+#: views/layout-settings.php:20
+msgctxt "Settings page"
+msgid "Guests"
+msgstr "Invités"
+
+#: inc/guests.php:63
+msgctxt "User settings"
+msgid "Guest Settings"
+msgstr "Réglages invité"
+
+#: inc/guests.php:57
+msgctxt "User settings"
+msgid "Your display name"
+msgstr "Votre nom affiché"
+
+#: inc/shortcodes.php:64
+msgid "Live Chat"
+msgstr "Chat en direct"
+
+#: views/layout-settings.php:1169
+msgctxt "Settings page"
+msgid "Delete message completely"
+msgstr "Supprimer complètement le message"
+
+#: views/layout-settings.php:1178
+msgctxt "Settings page"
+msgid "Replace message content"
+msgstr "Remplacer le contenu du message"
+
+#: views/layout-settings.php:1179
+msgctxt "Settings page"
+msgid "Replace message content with \"This message was deleted\" label"
+msgstr "Remplacer le contenu par le libellé \"Ce message a été supprimé\""
+
+#: views/layout-settings.php:1380
+msgctxt "Settings page"
+msgid "Delete user messages when his account is deleted from website"
+msgstr "Supprimer les messages d’un compte lorsque celui-ci est effacé du site"
+
+#: addons/ai/ai.php:302 inc/chats.php:725 assets/admin/admin.js:1
+msgctxt "WP Admin"
+msgid "Loading"
+msgstr "Chargement"
+
+#: inc/options.php:287 views/layout-viewer.php:11
+msgctxt "WP Admin"
+msgid "Administration"
+msgstr "Administration"
+
+#: views/layout-settings.php:4662
+msgctxt "Settings page"
+msgid "Convert"
+msgstr "Convertir"
+
+#: views/layout-settings.php:4658
+msgctxt "Settings page"
+msgid "Convert to UTF8MB4"
+msgstr "Convertir en UTF8MB4"
+
+#: views/layout-settings.php:4625
+msgctxt "Settings page"
+msgid "Table exists"
+msgstr "La table existe déjà"
+
+#: views/layout-settings.php:4603
+msgctxt "Settings page"
+msgid "Database tables"
+msgstr "Tables de la base de données"
+
+#: views/layout-settings.php:4592
+msgctxt "Settings page"
+msgid "Supported"
+msgstr "Pris en charge"
+
+#: views/layout-settings.php:4596
+msgctxt "Settings page"
+msgid "Not Supported"
+msgstr "Non pris en charge"
+
+#: views/layout-settings.php:4587
+msgctxt "Settings page"
+msgid "UTF8MB4 Encoding"
+msgstr "Encodage UTF8MB4"
+
+#: views/layout-settings.php:4582
+msgctxt "Settings page"
+msgid "Database info"
+msgstr "Informations de la base de données"
+
+#: views/layout-settings.php:4632
+msgctxt "Settings page"
+msgid "Table not exists"
+msgstr "La table n’existe pas"
+
+#: inc/guests.php:54 assets/js/bp-messages-free.js:9
+#: assets/js/bp-messages-premium.js:9
+msgid "Display Name"
+msgstr "Nom affiché"
+
+#: inc/moderation.php:213
+msgctxt "Message when user was muted in conversation"
+msgid "You were muted in this conversation until %s"
+msgstr "Vous avez été mis en sourdine dans cette discussion jusqu’à %s"
+
+#: views/layout-settings.php:4668
+msgctxt "Settings page"
+msgid "Complete delete database data and reinstall the tables"
+msgstr "Supprimer complètement la base de données et réinstaller les tables"
+
+#: views/layout-settings.php:4667 views/layout-settings.php:4671
+msgctxt "Settings page"
+msgid "Reset Database"
+msgstr "Réinitialiser la base de données"
+
+#: views/layout-settings.php:4575
+msgctxt "Settings page"
+msgid "Database"
+msgstr "Base de données"
+
+#: views/layout-settings.php:549
+msgctxt "Settings page"
+msgid "Tools"
+msgstr "Outils"
+
+#: addons/buddyboss/notifications/new-message.php:100
+msgid "A member receives a new private message "
+msgstr "Un membre a reçu un nouveau message privé "
+
+#: addons/buddyboss/notifications/new-message.php:99
+msgid "You receive a new private message"
+msgstr "Vous avez reçu un nouveau message privé"
+
+#: addons/buddyboss/notifications/new-message.php:75
+msgid "Private Messages"
+msgstr "Messages privés"
+
+#: views/layout-settings.php:4032
+msgctxt "Settings page"
+msgid "Enable BuddyBoss App Push Notifications"
+msgstr "Activer les notifications push dans l’application BuddyBoss"
+
+#: views/layout-settings.php:1105
+msgctxt "Settings page"
+msgid "Users will be able to pin specific conversations to the top of conversations list"
+msgstr "Les utilisateurs/utilisatrices pourront épingler des discussions spécifiques en haut de la liste des discussions"
+
+#: views/layout-settings.php:1104
+msgctxt "Settings page"
+msgid "Enable Pinned Conversations"
+msgstr "Activer les Discussions Épinglées"
+
+#: views/layout-settings.php:1092
+msgctxt "Settings page"
+msgid "Conversations functions"
+msgstr "Fonctions des discussions"
+
+#: views/layout-settings.php:1550
+msgctxt "Settings page"
+msgid "Tap To Open Message"
+msgstr "Toucher pour ouvrir les messages"
+
+#: views/layout-settings.php:1633
+msgctxt "Settings page"
+msgid "Always show popup notifications on bottom"
+msgstr "Toujours afficher la popup de notifications en bas"
+
+#: views/layout-settings.php:1632
+msgctxt "Settings page"
+msgid "Always on Bottom"
+msgstr "Toujours en bas"
+
+#: views/layout-settings.php:1628
+msgctxt "Settings page"
+msgid "Always show popup notifications on top"
+msgstr "Toujours afficher la popup de notifications en haut"
+
+#: views/layout-settings.php:1627
+msgctxt "Settings page"
+msgid "Always on Top"
+msgstr "Toujours en haut"
+
+#: views/layout-settings.php:1623
+msgctxt "Settings page"
+msgid "Show popup notifications on bottom, but in conversation screen shows it on top to not overlay over the reply area."
+msgstr "Afficher la popup de notifications en bas, excepté sur l’écran de discussion où elle s’affiche en haut pour ne pas être superposée sur l’encart de réponse."
+
+#: inc/chats.php:524 assets/admin/admin.js:3
+msgid "Loading"
+msgstr "Chargement"
+
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:45
+msgctxt "Uncanny Automator Integration"
+msgid "Recipient"
+msgstr "Destinataire"
+
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:37
+msgctxt "Uncanny Automator Integration"
+msgid "Sender"
+msgstr "Expéditeur"
+
+#: addons/automatorwp/actions/send-message.php:58
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Content"
+msgstr "Contenu"
+
+#: addons/automatorwp/actions/send-message.php:45
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Subject"
+msgstr "Sujet"
+
+#: addons/automatorwp/actions/send-message.php:31
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Sender"
+msgstr "Expéditeur"
+
+#: addons/automatorwp/actions/send-message.php:38
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Recipient"
+msgstr "Destinataire"
+
+#: inc/hooks.php:1700
+msgid "You already have conversations with %s"
+msgstr "Vous avez déjà des discussions en cours avec %s"
+
+#: inc/component.php:139
+msgid "Conversations"
+msgstr "Discussions"
+
+#: inc/component.php:160
+msgid "New Conversation"
+msgstr "Nouvelle discussion"
+
+#: addons/giphy.php:104 addons/stickers.php:121
+msgid "You are not allowed to reply to this conversation."
+msgstr "Vous n’avez pas l’autorisation de répondre à cette discussion"
+
+#: inc/api/bulk-message.php:118
+msgid "Admin disabled replies to this conversation"
+msgstr "L’admin a désactivé les réponses à cette discussion"
+
+#: views/layout-settings.php:2765
+msgctxt "Settings page"
+msgid "Disable New Conversation Screen"
+msgstr "Désactiver l’écran de composition d’un Nouveau Message"
+
+#: views/layout-settings.php:2756
+msgctxt "Settings page"
+msgid "Disables user settings button"
+msgstr "Désactiver le bouton des réglages individuel"
+
+#: addons/ai/ai.php:266 inc/chats.php:508
+msgctxt "Chat rooms settings page"
+msgid "Settings"
+msgstr "Réglages"
+
+#: views/layout-settings.php:4500
+msgctxt "Settings page"
+msgid "Import Settings"
+msgstr "Importer les réglages"
+
+#: views/layout-settings.php:4487
+msgctxt "Settings page"
+msgid "Export Settings"
+msgstr "Exporter les réglages"
+
+#: views/layout-settings.php:2755
+msgctxt "Settings page"
+msgid "Disable User Settings"
+msgstr "Désactiver les réglages de compte"
+
+#: views/layout-settings.php:2745
+msgctxt "Settings page"
+msgid "Disable Favorite Messages"
+msgstr "Désactiver les messages favoris"
+
+#: views/layout-settings.php:542
+msgctxt "Settings page"
+msgid "Notifications"
+msgstr "Notifications"
+
+#: inc/chats.php:546 inc/chats.php:662
+msgctxt "Chat rooms settings page"
+msgid "You are not allowed to reply in this chat room"
+msgstr "Vous n’avez pas l’autorisation de répondre dans cette salle de discussion"
+
+#: inc/chats.php:545 inc/chats.php:656
+msgctxt "Chat rooms settings page"
+msgid "You are not allowed to join this chat room"
+msgstr "Vous n’avez pas l’autorisation de rejoindre cette salle de discussion"
+
+#: inc/chats.php:476
+msgctxt "Chat Rooms"
+msgid "Chat Rooms"
+msgstr "Salles de discussions"
+
+#: inc/chats.php:477
+msgctxt "Chat Rooms"
+msgid "Chat Room"
+msgstr "Salle de discussions"
+
+#: views/layout-settings.php:4884
+msgctxt "Settings page"
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: inc/user-config.php:161
+msgctxt "User settings"
+msgid "Disable new message sound notification"
+msgstr "Désactiver la notification sonore des nouveaux messages"
+
+#: views/layout-settings.php:1326
+msgctxt "Settings page"
+msgid "Deleted conversations"
+msgstr "Discussions supprimées"
+
+#: inc/hooks.php:1647
+msgid "This conversation is deleted."
+msgstr "Cette discussion a été supprimée."
+
+#: views/layout-settings.php:1339
+msgctxt "Settings page"
+msgid "The user will not be proposed to continue deleted conversation"
+msgstr "Il ne sera pas proposé à l’utilisateur/utilisatrice de reprendre une discussion supprimée"
+
+#: views/layout-settings.php:1349
+msgctxt "Settings page"
+msgid "If the user already has conversation with the selected recipient, but its deleted, it will be proposed to continue conversation by restoring it"
+msgstr "Si l’utilisateur/utilisatrice a déjà une discussion en cours avec le destinataire sélectionné, mais que celle-ci est supprimée, il lui sera proposé de reprendre cette discussion en la restaurant"
+
+#: addons/profile-grid.php:106 addons/profile-grid.php:121
+msgctxt "ProfileGrid Integration"
+msgid "Messages"
+msgstr "Messages"
+
+#: addons/profile-grid.php:112
+msgctxt "ProfileGrid Integration"
+msgid "Message"
+msgstr "Message"
+
+#: addons/userswp.php:85
+msgctxt "UsersWP Integration"
+msgid "Private Message"
+msgstr "Message privé"
+
+#: addons/userswp.php:102
+msgctxt "UsersWP Integration"
+msgid "Messages"
+msgstr "Messages"
+
+#: addons/profile-grid.php:77
+msgctxt "ProfileGrid Integration"
+msgid "Show in ProfileGrid profile"
+msgstr "Afficher dans le profil ProfileGrid"
+
+#: addons/userswp.php:58
+msgctxt "UsersWP Integration"
+msgid "Show in UsersWP profile"
+msgstr "Afficher dans le profil UsersWP"
+
+#: inc/user-config.php:164
+msgctxt "User settings"
+msgid "When enabled, you will not hear a sound when a new message is received."
+msgstr "Si c’est coché, vous n’entendrez pas de son lorsque vous recevrez un nouveau message."
+
+#: addons/peepso-groups.php:409
+msgctxt "PeepSo Group Section Label"
+msgid "Messages"
+msgstr "Messages"
+
+#: addons/peepso.php:415
+msgctxt "Peepso Integration"
+msgid "Messages"
+msgstr "Messages"
+
+#: addons/peepso.php:300
+msgctxt "PeepSo Integration"
+msgid "Send Message"
+msgstr "Envoyer un message"
+
+#: views/layout-settings.php:4778 views/layout-settings.php:4792
+msgctxt "Settings page"
+msgid "This shortcode will try to find user_id from environment, for example author of post and display Private Message button."
+msgstr "Ce code court tentera de trouver l’identifiant du compte depuis l’environnement, l’auteur d’un article par exemple, et affichera le bouton de message privé."
+
+#: addons/giphy.php:285 addons/giphy.php:288 inc/notifications.php:405
+msgid "GIF"
+msgstr "GIF"
+
+#: views/layout-settings.php:3744
+msgctxt "Settings page"
+msgid "GIPHY Content Rating <a href=\"%s\" target=\"_blank\">Learn more</a>"
+msgstr "Évaluation de contenu GIPHY <a href=\"%s\" target=\"_blank\">En savoir plus</a>"
+
+#: views/layout-settings.php:905
+msgctxt "Settings page"
+msgid "Double-checking if WebSocket server know about this domain and sync is fine"
+msgstr "Vérifier si le serveur WebSocket reconnaît ce domaine et si la synchronisation est correcte"
+
+#: views/layout-settings.php:894
+msgctxt "Settings page"
+msgid "If you have license, and it must be attached to this website, try to press sync button in <a href=\"%s\">your account</a>."
+msgstr "Si vous disposez d’une licence et qu’elle doit être associée à ce site, essayez d’appuyer sur le bouton de synchronisation dans <a href=\"%s\">votre compte</a>."
+
+#: views/layout-settings.php:2437
+msgctxt "Settings page"
+msgid "This is security requirements by browsers. Contact your hosting company to enable SSL certificate at your website."
+msgstr "Il s’agit d’exigences de sécurité au niveau des navigateurs. Contactez votre hébergeur pour activer le certificat SSL sur votre site."
+
+#: views/layout-settings.php:893
+msgctxt "Settings page"
+msgid "This website using WebSocket plugin version, but has no active license attached."
+msgstr "Ce site utilise la version WebSocket de l’extension mais n’a aucune licence active associée."
+
+#: views/layout-settings.php:923
+msgctxt "Settings page"
+msgid "All good, WebSocket server know about this domain, all should be working good."
+msgstr "Tout est bon, le serveur WebSocket reconnaît ce domaine, tout devrait bien fonctionner."
+
+#: addons/buddyboss.php:325
+msgid "You have new message from %s"
+msgstr "Vous avez un nouveau message de %s"
+
+#: addons/buddyboss.php:324
+msgid "New message from %s"
+msgstr "Nouveau message de %s"
+
+#: views/layout-settings.php:4747
+msgctxt "Settings page"
+msgid "To add this shortcode to your menu item you can use <a href=\"https://wordpress.org/plugins/shortcode-in-menus/\" target=\"_blank\">Shortcode in Menus</a> plugin."
+msgstr "Pour ajouter ce code court à votre élément du menu vous pouvez utiliser l’extension <a href=\"https://wordpress.org/plugins/shortcode-in-menus/\" target=\"_blank\">Shortcode in Menus</a>."
+
+#: inc/component.php:182
+msgctxt "Messages list sub nav"
+msgid "Messages"
+msgstr "Messages"
+
+#: inc/notifications.php:620
+msgid "<a href=\"%s\">Go to the discussion</a> to reply or catch up on the conversation."
+msgstr "<a href=\"%s\">Aller à la discussion</a> pour répondre ou suivre la conversation."
+
+#: inc/notifications.php:617
+msgid "Hi %s,"
+msgstr "Bonjour %s,"
+
+#: inc/component.php:127
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s bp-better-messages-unread count\">%s</span>"
+msgstr "Messages <span class=\"%s bp-better-messages-unread count\">%s</span>"
+
+#: inc/functions.php:2139
+msgid "<a href=\"%s\" target=\"_blank\">Download</a> and install Premium version of plugin to use this feature"
+msgstr "<a href=\"%s\" target=\"_blank\">Téléchargez</a> et installez la version Premium de l’extension pour utiliser cette fonctionnalité"
+
+#: inc/functions.php:2135
+msgid "Get WebSocket License"
+msgstr "Obtenir une licence WebSocket"
+
+#: views/layout-settings.php:2766
+msgctxt "Settings page"
+msgid "Disables new conversation button and screen (admin will always see it)"
+msgstr "Désactive le bouton et l’écran de nouveau message (l’admin le verra toujours)"
+
+#: addons/peepso.php:239 addons/ultimate-member.php:387 inc/hooks.php:1676
+msgid "You must become friends to send messages"
+msgstr "Vous devez devenir amis pour vous envoyer des messages"
+
+#: views/layout-settings.php:1835
+msgctxt "Settings page"
+msgid "Stop messages notifications to be added to BuddyPress Notifications Bell"
+msgstr "Arrêter l’ajout des notifications de messages à la cloche des notifications de BuddyPress"
+
+#: views/layout-settings.php:2506
+msgctxt "Settings page"
+msgid "Leaving message about missed call for user if user was offline at that moment."
+msgstr "Laisser un message d’appel manqué si l’utilisateur ou l’utilisatrice était hors ligne à ce moment."
+
+#: addons/giphy.php:308
+msgid "Search results will display here"
+msgstr "Les résultats de la recherche apparaîtront ici"
+
+#: addons/stickers.php:180 addons/stickers.php:183 inc/notifications.php:400
+#: assets/js/bp-messages-free.js:6 assets/js/bp-messages-premium.js:6
+msgid "Sticker"
+msgstr "Autocollant"
+
+#: views/layout-settings.php:3795
+msgctxt "Settings page"
+msgid "Two letter language code for showing stickers which best fits this language"
+msgstr "Code langue à deux lettres pour afficher les autocollants qui correspondent le mieux pour cette langue"
+
+#: views/layout-settings.php:708
+msgctxt "Settings page"
+msgid "Encrypts all sensitive content before transfer to websocket server and decrypt on client site with special secret keys not known by our side."
+msgstr "Crypte tout contenu sensible avant transfert vers le serveur WebSocket et décrypte sur le site client avec des clés secrètes spéciales inconnues de notre part."
+
+#: addons/buddyboss.php:444
+msgid "Joined \"%s\""
+msgstr "A rejoint « %s »"
+
+#: addons/buddyboss.php:442
+msgid "Left \"%s\""
+msgstr "A quitté « %s »"
+
+#: inc/hooks.php:1080
+msgid "This user does not exist."
+msgstr "Ce compte n’existe pas."
+
+#: views/layout-settings.php:1847
+msgctxt "Settings page"
+msgid "Supported in all major browsers like: Chrome, Opera, Firefox, IE, Edge and others"
+msgstr "Pris en charge par la plupart des navigateurs tels que : Chrome, Opera, Firefox, IE, Edge et autres"
+
+#: inc/hooks.php:1147 inc/hooks.php:1155
+msgid "Your membership does not allow to use messages"
+msgstr "Votre type de compte ne permet pas d’utiliser les messages"
+
+#: inc/shortcodes.php:322
+msgid "Audio Call"
+msgstr "Appel audio"
+
+#: addons/buddypress.php:189 addons/buddypress.php:191
+#: addons/ultimate-member.php:451 addons/ultimate-member.php:468
+#: addons/ultimate-member.php:470 inc/hooks.php:1038 inc/hooks.php:1051
+#: inc/hooks.php:1098 inc/shortcodes.php:181 inc/shortcodes.php:371
+msgid "Private Message"
+msgstr "Message privé"
+
+#: views/layout-settings.php:2459
+msgctxt "Settings page"
+msgid "Audio calls are possible only with websocket version, its using most secure and modern WebRTC technology to empower audio calls."
+msgstr "Les appels audio ne sont possibles qu’avec la version WebSocket, elle utilise la technologie WebRTC la plus sécurisée et la plus moderne pour établir des appels audio."
+
+#: inc/shortcodes.php:272
+msgid "Video Call"
+msgstr "Appel vidéo"
+
+#: views/layout-settings.php:2448
+msgctxt "Settings page"
+msgid "Video calls are possible only with websocket version, its using most secure and modern WebRTC technology to empower video chats."
+msgstr "Les appels vidéo ne sont possibles qu’avec la version WebSocket, elle utilise la technologie WebRTC la plus sécurisée et la plus moderne pour établir des appels vidéo."
+
+#: views/layout-settings.php:637
+msgctxt "Settings page"
+msgid "You can use <code>%s</code> shortcode to place chat in specific place of your selected page, if you not used this shortcode all page content will be replaced."
+msgstr "Vous pouvez utiliser le code court <code>%s</code> pour placer la discussion instantanée à un endroit spécifique de la page que vous avez sélectionnée, si vous n’utilisez pas ce code court tout le contenu de la page sera remplacé."
+
+#: views/layout-settings.php:1193
+msgctxt "Settings page"
+msgid "oEmbed YouTube, Vimeo, VideoPress, Flickr, DailyMotion, Kickstarter, Meetup.com, Mixcloud, SoundCloud and more"
+msgstr "oEmbed YouTube, Vimeo, VideoPress, Flickr, DailyMotion, Kickstarter, Meetup.com, Mixcloud, SoundCloud et autres"
+
+#: addons/files.php:289
+msgid "attachments"
+msgstr "fichiers joints"
+
+#: inc/notifications.php:497
+msgctxt "Email notification header for non BuddyPress websites"
+msgid "You have unread messages: \"%s\""
+msgstr "Vous avez des messages non lus : « %s »"
+
+#: addons/pinned-message.php:76 addons/pinned-message.php:121
+#: addons/reactions.php:96 addons/user-reports/user-reports.php:140
+#: inc/rest-api.php:924
+msgid "Message not found"
+msgstr "Message non trouvé"
+
+#: addons/peepso.php:210 addons/ultimate-member.php:360
+msgid "%s not on your friends list"
+msgstr "%s n’est pas sur votre liste d’amis"
+
+#. Plugin Name of the plugin
+#: bp-better-messages.php addons/buddyboss/notifications/new-message.php:76
+#: inc/options.php:304
+msgid "Better Messages"
+msgstr "BP Better Messages"
+
+#: inc/functions.php:904 inc/functions.php:934 inc/hooks.php:814
+msgid "Deleted User"
+msgstr "Compte supprimé"
+
+#: inc/notifications.php:430
+msgid "%s wrote:"
+msgstr "%s a écrit :"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:20 inc/notifications.php:118
+msgid ""
+"You have unread messages: &quot;{{subject}}&quot;\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">Go to the discussion</a> to reply or catch up on the conversation."
+msgstr ""
+"Vous avez des messages non lus : « {{subject}} »\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">Aller à la discussion</a> pour répondre ou reprendre la conversation."
+
+#: inc/install.php:26 inc/notifications.php:124
+msgid "A member has unread private messages."
+msgstr "Une personne a des messages privés non lus."
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:18 inc/notifications.php:116
+msgid "[{{{site.name}}}] You have unread messages: {{subject}}"
+msgstr "[{{{site.name}}}] Vous avez des messages non lus : {{subject}}"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:22 inc/notifications.php:120
+msgid ""
+"You have unread messages: \"{{subject}}\"\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"Go to the discussion to reply or catch up on the conversation: {{{thread.url}}}"
+msgstr ""
+"Vous avez des messages non lus : « {{subject}} »\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"Aller à la discussion pour répondre ou reprendre la conversation : {{{thread.url}}}"
+
+#: inc/hooks.php:1103
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s bp-better-messages-unread\">%s</span>"
+msgstr "Messages <span class=\"%s bp-better-messages-unread\">%s</span>"
+
+#: inc/component.php:149
+msgid "Starred"
+msgstr "Favoris"
+
+#: addons/hivepress.php:87 addons/multi-vendor-x.php:255
+#: addons/ultimate-member.php:404 inc/component-group.php:47
+#: inc/component.php:39 inc/hooks.php:777
+msgid "Messages"
+msgstr "Messages"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: bp-better-messages.php
+msgid "https://www.wordplus.org"
+msgstr "https://www.wordplus.org"
+
+#. Author of the plugin
+#: bp-better-messages.php
+msgid "WordPlus"
+msgstr "WordPlus"
+
+#: inc/functions.php:1554
+msgid "Access restricted"
+msgstr "Accès restreint"
+
+#: inc/component.php:180
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s\">%s</span>"
+msgstr "Messages <span class=\"%s\">%s</span>"
+
+#: views/layout-system.php:11
+msgctxt "WP Admin"
+msgid "Database Tools"
+msgstr "Outils de base de données"
+
+#: views/layout-system.php:8
+msgctxt "WP Admin"
+msgid "System"
+msgstr "Système"
+
+#: views/layout-settings.php:4143 views/layout-settings.php:4353
+msgctxt "Settings page"
+msgid "The charge will be applied additionally to the message price"
+msgstr "Les frais seront appliqués en plus du prix du message"
+
+#: views/layout-settings.php:4133 views/layout-settings.php:4179
+#: views/layout-settings.php:4233 views/layout-settings.php:4251
+#: views/layout-settings.php:4343 views/layout-settings.php:4389
+#: views/layout-settings.php:4443 views/layout-settings.php:4461
+msgctxt "Settings page"
+msgid "HTML Allowed"
+msgstr "HTML Autorisé"
+
+#: views/layout-settings.php:4106 views/layout-settings.php:4152
+#: views/layout-settings.php:4205 views/layout-settings.php:4316
+#: views/layout-settings.php:4362 views/layout-settings.php:4415
+msgctxt "Settings page"
+msgid "Price"
+msgstr "Prix"
+
+#: views/layout-settings.php:2240 views/layout-settings.php:4105
+#: views/layout-settings.php:4151 views/layout-settings.php:4204
+#: views/layout-settings.php:4315 views/layout-settings.php:4361
+#: views/layout-settings.php:4414
+msgctxt "Settings page"
+msgid "Role"
+msgstr "Rôle"
+
+#: views/layout-settings.php:4007
+msgctxt "Settings page"
+msgid "URL Slug"
+msgstr "Slug de l’URL"
+
+#: views/layout-settings.php:3991
+msgctxt "Settings page"
+msgid "Email Notifications"
+msgstr "Notifications par e-mail"
+
+#: views/layout-settings.php:3946
+msgctxt "Settings page"
+msgid "Enable messages for BuddyPress groups"
+msgstr "Activer les messages pour les groupes BuddyPress"
+
+#: views/layout-settings.php:1933 views/layout-settings.php:3933
+msgctxt "Settings page"
+msgid "BuddyPress Groups"
+msgstr "Groupes BuddyPress"
+
+#: views/layout-settings.php:1929 views/layout-settings.php:3881
+msgctxt "Settings page"
+msgid "BuddyPress Friends"
+msgstr "Amis BuddyPress"
+
+#: views/layout-settings.php:3817
+msgctxt "Settings page"
+msgid "BuddyPress Integration"
+msgstr "Intégration de BuddyPress"
+
+#: views/layout-settings.php:3523
+msgctxt "Settings page"
+msgid "Ultimate Member Integration"
+msgstr "Intégration de Ultimate Member"
+
+#: views/layout-settings.php:3334
+msgctxt "Settings page"
+msgid "Add new reaction"
+msgstr "Ajouter une nouvelle réaction"
+
+#: views/layout-settings.php:3308
+msgctxt "Settings page"
+msgid "Emojis for Reactions"
+msgstr "Emojis pour les Réactions"
+
+#: views/layout-settings.php:2907 views/layout-settings.php:2989
+#: views/layout-settings.php:3607 views/layout-settings.php:3692
+#: views/layout-settings.php:3921 views/layout-settings.php:3982
+msgctxt "Settings page"
+msgid "Mobile View"
+msgstr "Vue Mobile"
+
+#: views/layout-settings.php:2899 views/layout-settings.php:3599
+#: views/layout-settings.php:3913
+msgctxt "Settings page"
+msgid "Shows Friends in left column of Combined view"
+msgstr "Affiche les Amis dans la colonne de gauche de la Vue Combinée"
+
+#: views/layout-settings.php:801 views/layout-settings.php:2898
+#: views/layout-settings.php:2980 views/layout-settings.php:3598
+#: views/layout-settings.php:3683 views/layout-settings.php:3912
+#: views/layout-settings.php:3973
+msgctxt "Settings page"
+msgid "Combined View"
+msgstr "Vue Combinée"
+
+#: views/layout-settings.php:2877 views/layout-settings.php:3577
+#: views/layout-settings.php:3892
+msgctxt "Settings page"
+msgid "Only Friends Mode"
+msgstr "Mode Amis Uniquement"
+
+#: views/layout-settings.php:2831 views/layout-settings.php:3534
+#: views/layout-settings.php:3828
+msgctxt "Settings page"
+msgid "Advanced Mini Chats"
+msgstr "Mini-Chats avancés"
+
+#: views/layout-settings.php:2795
+msgctxt "Settings page"
+msgid "Emojis"
+msgstr "Emojis"
+
+#: views/layout-settings.php:2794
+msgctxt "Settings page"
+msgid "GIFs & Stickers"
+msgstr "GIF & Autocollants"
+
+#: views/layout-settings.php:1306
+msgctxt "Settings page"
+msgid "(admins can add more participants even if this option is disabled)"
+msgstr "(les administrateurs peuvent ajouter plus de participants même si cette option est désactivée)"
+
+#: views/layout-settings.php:2526
+msgctxt "Settings page"
+msgid "Selected roles will not be allowed to call, but they will be able to receive calls still"
+msgstr "Les rôles sélectionnés ne seront pas autorisés à appeler, mais ils pourront toujours recevoir des appels"
+
+#: views/layout-settings.php:2525
+msgctxt "Settings page"
+msgid "Restrict calls"
+msgstr "Restreindre les appels"
+
+#: addons/ultimate-member-groups.php:193
+msgctxt "Ultimate Member - Group Tab Name"
+msgid "Messages"
+msgstr "Messages"
+
+#: inc/functions.php:2585
+msgid "Re: %s"
+msgstr "Re: %s"
+
+#: views/layout-settings.php:3965
+msgctxt "Settings page"
+msgid "Enables mini groups widget fixed to the bottom of browser window"
+msgstr "Active le widget des mini groupes fixé en bas de la fenêtre du navigateur"
+
+#: views/layout-settings.php:2470
+msgctxt "Settings page"
+msgid "Allow only friends to make calls between each other (admins always can call)"
+msgstr "Autoriser uniquement les amis à s’appeler (les administrateurs peuvent toujours appeler)"
+
+#: inc/hooks.php:1524
+msgid "You were blocked by recipient"
+msgstr "Vous avez été bloqué par le destinataire"
+
+#: views/layout-settings.php:1577
+msgctxt "Settings page"
+msgid "Adds button fixed to the right corner on mobile devices, on click fully featured messaging will appear in full screen mode"
+msgstr "Ajoute un bouton fixé à l’angle droit sur les appareils mobiles. Cliquer dessus mettra en avant la messagerie qui apparaîtra en mode plein écran"
+
+#: views/layout-settings.php:2890 views/layout-settings.php:3590
+#: views/layout-settings.php:3904
+msgctxt "Settings page"
+msgid "Enables mini friends list widget fixed to the bottom of browser window"
+msgstr "Active le widget de la mini liste d’amis fixé en bas de la fenêtre du navigateur"
+
+#: inc/options.php:314 inc/options.php:315 inc/options.php:396
+#: assets/admin/admin.js:4
+msgctxt "WP Admin"
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/functions.php:2223 inc/functions.php:2225
+#: assets/js/bp-messages-free.js:255 assets/js/bp-messages-premium.js:255
+msgid "No Subject"
+msgstr "Pas d’objet"
+
+#: addons/users-block.php:40
+msgctxt "User settings screen"
+msgid "Blocked users"
+msgstr "Comptes bloqués"
+
+#: inc/user-config.php:151
+msgctxt "User settings"
+msgid "Enable notifications via email"
+msgstr "Activer les notifications par e-mail"
+
+#: views/layout-settings.php:2949 views/layout-settings.php:3651
+msgctxt "Settings page"
+msgid "Enable Email Notifications"
+msgstr "Activer les notifications par e-mail"
+
+#: views/layout-settings.php:2959 views/layout-settings.php:3662
+#: views/layout-settings.php:4000
+msgctxt "Settings page"
+msgid "Push Notifications"
+msgstr "Notifications Push"
+
+#: inc/user-config.php:173
+msgctxt "User settings"
+msgid "Notifications"
+msgstr "Notifications"
+
+#: addons/buddyboss.php:449
+msgid "This message was deleted."
+msgstr "Ce message a été supprimé."
+
+#: views/layout-settings.php:4178 views/layout-settings.php:4388
+msgctxt "Settings page"
+msgid "Message when user can`t start new conversation"
+msgstr "Message lorsque l’utilisateur/utilisatrice n’a pas le droit de démarrer une nouvelle discussion"
+
+#: views/layout-settings.php:4142 views/layout-settings.php:4352
+msgctxt "Settings page"
+msgid "Price for new starting new conversation"
+msgstr "Prix pour démarrer une nouvelle discussion"
+
+#: views/layout-settings.php:4097 views/layout-settings.php:4307
+msgctxt "Settings page"
+msgid "Price for new message in the conversation"
+msgstr "Prix pour un nouveau message dans la discussion"
+
+#: views/layout-settings.php:2070
+msgctxt "Settings page"
+msgid "Disable users from being able to delete conversation (admin always can delete)"
+msgstr "Désactiver la capacité des utilisateurs/utilisatrices à supprimer leurs discussions (l’admin peut toujours les supprimer)"
+
+#: inc/user-config.php:154
+msgctxt "User settings"
+msgid "When enabled, you will receive notifications about new messages via email when you are offline."
+msgstr "Si c’est coché, vous recevrez des notifications de nouveaux messages par e-mail lorsque vous n’êtes pas connecté."
+
+#: inc/user-config.php:183
+msgctxt "User settings"
+msgid "When enabled, you will receive messages notifications even if browser is closed."
+msgstr "Si c’est coché, vous recevrez des messages de notifications même si le navigateur est fermé."
+
+#: addons/users-block.php:142
+msgctxt "Message when user cant send message to user blocked by him"
+msgid "You can't send message to user who was blocked by you"
+msgstr "Vous ne pouvez pas envoyer de message vers un compte que vous avez bloqué"
+
+#: addons/users-block.php:153
+msgctxt "Message when user cant send message to user who blocked him"
+msgid "You can't send message to user who blocked you"
+msgstr "Vous ne pouvez pas envoyer de message vers un compte qui vous a bloqué"
+
+#: addons/users-block.php:106
+msgctxt "Error when starting new thread but user blocked"
+msgid "%s blocked you"
+msgstr "%s vous a bloqué"
+
+#: inc/hooks.php:1494
+msgctxt "Error message when group threads are disabled"
+msgid "You can start conversation only with 1 user per time"
+msgstr "Vous ne pouvez démarrer de discussion qu’avec un seul correspondant à la fois"
+
+#: inc/hooks.php:986
+msgid "You cant start new conversation now. Please wait %s seconds."
+msgstr "Vous ne pouvez pas démarrer de nouvelle discussion pour le moment. Merci de patienter %s secondes."
+
+#: views/layout-settings.php:2801 views/layout-settings.php:3515
+#: views/layout-settings.php:3809 views/layout-settings.php:4089
+#: views/layout-settings.php:4273 views/layout-settings.php:4300
+msgctxt "Settings page"
+msgid "Website must to have %s plugin to be installed."
+msgstr "Le site nécessite que l’extension %s soit installée."
+
+#: views/layout-settings.php:3630
+msgctxt "Settings page"
+msgid "Enable messages for Ultimate Member Groups"
+msgstr "Activer les messages pour les groupes d’Ultimate Member"
+
+#: views/layout-settings.php:3642
+msgctxt "Settings page"
+msgid "Enable file uploading in Ultimate Member Groups messages"
+msgstr "Activer le téléversement de fichiers dans les messages d’Ultimate Member Groups"
+
+#: views/layout-settings.php:638
+msgctxt "Settings page"
+msgid "If first shortcode does not work (this can happen when using some page builders) - use <code>%s</code> shortcode instead."
+msgstr "Si le premier shortcode ne fonctionne pas (cela peut arriver lors de l’utilisation de certains constructeurs de page) - utilisez <code>%s</code> à la place."
+
+#: views/layout-settings.php:2833 views/layout-settings.php:3536
+#: views/layout-settings.php:3830
+msgctxt "Settings page"
+msgid "Mini Chats must be enabled. Ensure they are enabled <a href=\"%s\">here</a>"
+msgstr "Les mini-chats doivent être activés. Assurez-vous qu’ils sont activés <a href=\"%s\">ici</a>"
+
+#: addons/buddyboss.php:217
+msgctxt "Settings page"
+msgid "The BuddyBoss OneSignal integration is active and will be used, this option do not need to be enabled"
+msgstr "L’intégration BuddyBoss OneSignal est active et sera utilisée, cette option n’a pas besoin d’être activée"
+
+#: views/layout-settings.php:1304
+msgctxt "Settings page"
+msgid "Allow invite more participants to private conversations"
+msgstr "Autoriser l’invitation d’autres participants à des discussions privées"
+
+#: inc/rest-api.php:1966
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to access this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation d’accéder à cette discussion"
+
+#: inc/api/conversations.php:368 inc/api/conversations.php:387
+#: inc/rest-api.php:681 inc/rest-api.php:694
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to delete this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation de supprimer cette discussion"
+
+#: inc/rest-api.php:721 inc/rest-api.php:735
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to restore this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation de restaurer cette discussion"
+
+#: views/layout-settings.php:1737
+msgctxt "Settings page"
+msgid "Delete attachment after"
+msgstr "Supprimer le fichier joint après"
+
+#: views/layout-settings.php:1156
+msgctxt "Settings page"
+msgid "Allow users to delete messages"
+msgstr "Autoriser les utilisateurs/utilisatrices à supprimer des messages"
+
+#: views/layout-settings.php:1157
+msgctxt "Settings page"
+msgid "Allow users to delete their messages only"
+msgstr "Autoriser les utilisateurs/utilisatrices à supprimer uniquement leurs messages"
+
+#: views/layout-settings.php:1845
+msgctxt "Settings page"
+msgid "Allow users to enable web push notifications, so they can receive messages even with closed website"
+msgstr "Autoriser les utilisateurs/utilisatrices à activer les notifications push du navigateur, leur permettant ainsi de recevoir des messages même lorsque celui-ci est fermé"
+
+#: views/layout-settings.php:1305
+msgctxt "Settings page"
+msgid "Allow users to invite more participants to private conversations converting them to group conversation"
+msgstr "Autoriser les utilisateurs/utilisatrices à inviter plus de participants à des discussions privées en les convertissant en discussions de groupe"
+
+#: addons/files.php:490
+msgctxt "File Uploader Error"
+msgid "%s is too large! Please upload file up to %d MB."
+msgstr "%s est trop volumineux ! Veuillez téléverser un fichier n’excédant pas %d Mo."
+
+#: inc/rest-api.php:1871 inc/rest-api.php:1889 inc/rest-api.php:1901
+#: inc/rest-api.php:1912
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to reply into this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation de répondre à cette discussion"
+
+#: inc/rest-api.php:649
+msgctxt "Rest API Error"
+msgid "You are not allowed to delete message of super moderator."
+msgstr "Vous n’avez pas l’autorisation de supprimer un message de modération d’un niveau supérieur."
+
+#: inc/api/conversations.php:353
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to remove this user from conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation de retirer ce participant de la discussion"
+
+#: inc/api/conversations.php:335
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to remove participants from this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation de retirer des participants de la discussion"
+
+#: inc/api/conversations.php:300
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to add participants to this conversation"
+msgstr "Désolé, vous n’avez pas l’autorisation d’ajouter des participants à la discussion"
+
+#: addons/files.php:466 addons/files.php:481
+msgctxt "File Uploader Error"
+msgid "Sorry, you are not allowed to upload this file type"
+msgstr "Désolé, vous n’avez pas l’autorisation de téléverser ce type de fichier"
+
+#: addons/files.php:566
+msgctxt "File Uploader Error"
+msgid "Sorry, you are not allowed to upload files"
+msgstr "Désolé, vous n’avez pas l’autorisation de téléverser des fichiers"
+
+#: addons/pinned-conversations.php:49 addons/pinned-conversations.php:74
+#: addons/pinned-message.php:86 addons/pinned-message.php:131
+#: inc/api/conversations.php:163 inc/api/conversations.php:199
+#: inc/api/conversations.php:209 inc/api/conversations.php:216
+#: inc/api/conversations.php:244 inc/api/conversations.php:254
+#: inc/api/conversations.php:261 inc/api/conversations.php:484
+#: inc/api/conversations.php:504 inc/chats.php:407 inc/guests.php:301
+#: inc/guests.php:311 inc/guests.php:366 inc/moderation.php:106
+#: inc/moderation.php:131 inc/moderation.php:157 inc/moderation.php:182
+#: inc/rest-api.php:878
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to do that"
+msgstr "Désolé, vous n’avez pas l’autorisation de faire cela"
+
+#: views/layout-settings.php:4098 views/layout-settings.php:4144
+#: views/layout-settings.php:4190 views/layout-settings.php:4308
+#: views/layout-settings.php:4354 views/layout-settings.php:4400
+msgctxt "Settings page"
+msgid "Use 0 if this is free"
+msgstr "Utiliser 0 si c’est gratuit"
+
+#: views/layout-settings.php:4008
+msgctxt "Settings page"
+msgid "Change messages tab URL slug in BuddyPress group"
+msgstr "Modifier le slug de l’URL de l’onglet messages dans le groupe BuddyPress"
+
+#: views/layout-settings.php:3956
+msgctxt "Settings page"
+msgid "Enable file uploading in BuddyPress Groups Messages"
+msgstr "Activer le téléversement de fichiers pour les messages des groupes dans BuddyPress"
+
+#: views/layout-settings.php:3265
+msgctxt "Settings page"
+msgid "Emojis Set"
+msgstr "Ensemble d’Emojis"
+
+#: views/layout-settings.php:3955
+msgctxt "Settings page"
+msgid "Enable File Uploading"
+msgstr "Activer le téléversement de fichiers"
+
+#: inc/functions.php:946
+msgid "Profile picture of %s"
+msgstr "Photo de profil de %s"
+
+#: inc/hooks.php:1070
+msgid "You need to login to have access to profiles."
+msgstr "Vous devez vous connecter pour accéder aux profils."
+
+#: views/layout-settings.php:2832 views/layout-settings.php:3535
+#: views/layout-settings.php:3829
+msgctxt "Settings page"
+msgid "Open mini chat instead of redirecting to standalone messages page, when clicking private messages button in members directory or member profile"
+msgstr "Ouvrir le mini-chat au lieu de rediriger vers la page des messages autonomes, lorsque vous cliquez sur le bouton des messages privés dans le répertoire des membres ou le profil du membre"
+
+#: inc/notifications.php:499
+msgctxt "Email notification header for non BuddyPress websites"
+msgid "You have unread messages:"
+msgstr "Vous avez des messages non lus :"
+
+#: addons/reactions.php:84
+msgctxt "Reactions"
+msgid "No such reaction available"
+msgstr "Aucune réaction de ce type disponible"
+
+#: addons/reactions.php:107
+msgctxt "Reactions"
+msgid "You can only put reactions to other members messages"
+msgstr "Vous pouvez uniquement mettre des réactions aux messages des autres membres"
+
+#: addons/reactions.php:115
+msgctxt "Rest API Error"
+msgid "Sorry, you have no access to this conversation"
+msgstr "Désolé, vous n’avez pas accès à cette discussion"
+
+#: views/layout-settings.php:546 views/layout-settings.php:780
+#: views/layout-settings.php:1406 views/layout-settings.php:2663
+msgctxt "Settings page"
+msgid "Customization"
+msgstr "Personnalisation"
+
+#: addons/users-block.php:100
+msgctxt "Error when starting new thread but user blocked"
+msgid "%s blocked by you"
+msgstr "Vous avez bloqué %s"
+
+#: inc/api/bulk-message.php:269
+msgctxt "Bulk Messages Page"
+msgid "Message is empty"
+msgstr "Le message est vide"
+
+#: inc/api/bulk-message.php:277
+msgctxt "Bulk Messages Page"
+msgid "No users was selected"
+msgstr "Aucun compte n’a été sélectionné"
+
+#: inc/user-config.php:182
+msgctxt "User settings"
+msgid "Browser push notifications"
+msgstr "Notifications push dans le navigateur"
+
+#: inc/user-config.php:200
+msgctxt "User settings"
+msgid "Saved successfully"
+msgstr "Bien enregistré"
+
+#: inc/user-config.php:43
+msgctxt "User settings"
+msgid "Everyone"
+msgstr "Tout le monde"
+
+#: inc/user-config.php:68
+msgctxt "User settings"
+msgid "Nobody"
+msgstr "Personne"
+
+#: addons/buddyboss.php:501
+msgid "You can't message this member."
+msgstr "Vous ne pouvez pas envoyer de message à ce membre."
+
+#: addons/buddyboss.php:479
+msgid "You can't message a blocked member."
+msgstr "Vous ne pouvez pas envoyer de message à un membre bloqué."
+
+#: addons/files.php:270 inc/api/admin.php:443 assets/js/bp-messages-free.js:5
+#: assets/js/bp-messages-premium.js:5
+msgid "Voice Message"
+msgstr "Message vocal"
+
+#: addons/files.php:523
+msgctxt "File Uploader Error"
+msgid "Your request is empty."
+msgstr "Votre demande est vide."
+
+#: addons/peepso.php:351 addons/peepso.php:360
+msgctxt "PeepSo Integration"
+msgid "Start a conversation"
+msgstr "Démarrer une discussion"
+
+#: inc/user-config.php:57
+msgctxt "User settings"
+msgid "Allow Followers"
+msgstr "Autoriser les abonnés"
+
+#: inc/user-config.php:65
+msgctxt "User settings"
+msgid "Allow Friends"
+msgstr "Autoriser les amis"
+
+#: inc/user-config.php:139
+msgctxt "User settings"
+msgid "Who can start private conversations with you?"
+msgstr "Qui peut démarrer une discussion privée avec vous ?"
+
+#: views/layout-moderation.php:12
+msgid "Messages Viewer"
+msgstr "Visionneuse de messages"
